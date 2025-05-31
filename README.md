@@ -113,7 +113,7 @@
   </section>
 
   <footer>
-    <p>&copy; 2025 SuperMom by Donte LaFlair All rights reserved.</p>
+    <p>&copy; 2025 SuperMom by Proxx. All rights reserved.</p>
   </footer>
 </body>
 </html>
