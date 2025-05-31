@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>SuperMom</title>
-  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Raleway:wght@300;400;600&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Raleway:wght@300;400;600&display=swap" rel="stylesheet">
   <style>
     * {
       box-sizing: border-box;
@@ -44,15 +45,21 @@
       color: #f06ba5;
       margin-bottom: 20px;
     }
-    .section p {
+    .section p, .section ul {
       font-size: 1.1em;
       margin-bottom: 20px;
     }
-    footer {
-      background: #f49ac2;
-      color: white;
+    ul {
+      list-style: none;
+      padding-left: 0;
+    }
+    ul li::before {
+      content: "\2728";
+      margin-right: 8px;
+    }
+    .cta {
       text-align: center;
-      padding: 20px;
+      margin-top: 40px;
     }
     .button {
       background: #f06ba5;
@@ -67,9 +74,11 @@
     .button:hover {
       background: #da5d97;
     }
-    .cta {
+    footer {
+      background: #f49ac2;
+      color: white;
       text-align: center;
-      margin-top: 40px;
+      padding: 20px;
     }
   </style>
 </head>
@@ -87,11 +96,11 @@
   <section class="section">
     <h2>Features</h2>
     <ul>
-      <li>💬 Daily affirmations & guided journaling</li>
-      <li>🎮 Gentle games for focus and fun</li>
-      <li>🌼 Emotional garden and bloom system</li>
-      <li>🫂 Community connection & support circles</li>
-      <li>📱 Available on iOS and coming to web</li>
+      <li>Daily affirmations & guided journaling</li>
+      <li>Gentle games for focus and fun</li>
+      <li>Emotional garden and bloom system</li>
+      <li>Community connection & support circles</li>
+      <li>Available on iOS and coming to web</li>
     </ul>
     <div class="cta">
       <button class="button" onclick="location.href='https://testflight.apple.com/join/YOUR-BETA-LINK'">Join the Beta</button>
@@ -104,7 +113,7 @@
   </section>
 
   <footer>
-    <p>&copy; 2025 SuperMom by Proxx. All rights reserved.</p>
+    <p>&copy; 2025 SuperMom by Donte LaFlair All rights reserved.</p>
   </footer>
 </body>
 </html>
