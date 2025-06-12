@@ -1,6 +1,8 @@
 # 🔒 SuperMom Privacy Policy
 
-_Last Updated: May 31, 2025_
+_Last Updated: June 12, 2025_
+
+SuperMom is an app designed exclusively for women and mothers aged 16 and above. By using the app, you consent to the collection and use of your data in accordance with this Privacy Policy and our Terms and Conditions. SuperMom is a safe space for users who identify as female.
 
 SuperMom respects your privacy. We are committed to protecting your personal information and being transparent about how we handle it.
 
@@ -10,8 +12,8 @@ SuperMom respects your privacy. We are committed to protecting your personal inf
 
 We collect only the information necessary to provide our services, such as:
 
-- Account information (email, username, profile image)  
-- Content you post or create  
+- Account information (email, username, profile image)
+- Content you post or create
 - Basic usage analytics (for improving app performance)
 
 We use **Firebase Authentication, Firestore, and Storage** to securely manage your data.
@@ -22,10 +24,10 @@ We use **Firebase Authentication, Firestore, and Storage** to securely manage yo
 
 We use your data to:
 
-- Operate and improve the SuperMom app  
-- Personalize your experience  
-- Provide customer support  
-- Protect against fraud and abuse  
+- Operate and improve the SuperMom app
+- Personalize your experience
+- Provide customer support
+- Protect against fraud and abuse
 
 We will **never sell, rent, or misuse your data.** Your trust is extremely important to us.
 
@@ -35,7 +37,7 @@ We will **never sell, rent, or misuse your data.** Your trust is extremely impor
 
 We do **not** share your personal data with third parties, except:
 
-- As necessary to comply with legal obligations  
+- As necessary to comply with legal obligations
 - To protect SuperMom’s rights and users' safety
 
 ---
@@ -54,7 +56,7 @@ You can request deletion of your account and associated data anytime by contacti
 
 ## 6. Children’s Privacy
 
-SuperMom is **not intended for children under the age of 13**. We do not knowingly collect information from children.
+SuperMom is not intended for anyone under the age of 16. Additionally, SuperMom is only for users who identify as female and meet our eligibility requirements. We do not knowingly collect information from anyone who does not meet these requirements.
 
 ---
 
@@ -74,8 +76,8 @@ If you have any questions about this policy, contact us directly through the app
 
 If you choose to delete your account:
 
-- We will permanently delete your profile info, posts, garden data, and related content within **30 days**.  
-- **Direct messages** sent to other users may be retained to preserve conversation history.  
+- We will permanently delete your profile info, posts, garden data, and related content within **30 days**.
+- **Direct messages** sent to other users may be retained to preserve conversation history.
 - We retain data only as long as necessary to provide our services and meet legal obligations.
 
 ---
@@ -94,4 +96,4 @@ We implement reasonable technical and organizational measures to protect your in
 
 ## 12. International Users
 
-If you access SuperMom from outside the U.S., you consent to the transfer, storage, and processing of your data in the United States.
+If you access SuperMom from outside the United States, you acknowledge and agree that your personal data may be transferred to, stored in, and processed in the U.S., where data protection and privacy laws may be different than those in your country of residence.
