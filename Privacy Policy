@@ -1,6 +1,7 @@
+
 # 🔒 SuperMom Privacy Policy
 
-_Last Updated: June 12, 2025_
+_Last Updated: June 23, 2025_
 
 SuperMom is an app designed exclusively for women and mothers aged 16 and above. By using the app, you consent to the collection and use of your data in accordance with this Privacy Policy and our Terms and Conditions. SuperMom is a safe space for users who identify as female.
 
@@ -94,6 +95,12 @@ We implement reasonable technical and organizational measures to protect your in
 
 ---
 
-## 12. International Users
+## 12. Gesture Verification
+
+SuperMom uses gesture-based selfie verification to help confirm account authenticity and prevent impersonation. This verification is performed securely on your device using Apple's Vision framework. Hand gestures are never stored or transmitted—they are analyzed locally and discarded after verification. This process ensures an added layer of security while maintaining your privacy.
+
+---
+
+## 13. International Users
 
 If you access SuperMom from outside the United States, you acknowledge and agree that your personal data may be transferred to, stored in, and processed in the U.S., where data protection and privacy laws may be different than those in your country of residence.
