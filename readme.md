@@ -18,7 +18,7 @@ SuperMom is a digital sanctuary for mothers—a blend of emotional support, conn
 - 🫂 Community connection & support circles  
 - 📱 Available on iOS and coming to web  
 
-👉 [Join the TestFlight Beta](https://testflight.apple.com/join/h6kXH8Xt)
+
 
 ---
 
